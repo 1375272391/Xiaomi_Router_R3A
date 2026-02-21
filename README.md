@@ -5,11 +5,12 @@ Today(20260221), This Route has been broken<br>
 So,I upload these Backup Files
 
 # Info
-The 2.4GHz SSID Xiaomi_E370_1C8F
-The 5GHz SSID Xiaomi_E370_1C8F_5G
-admin & wifi password is 00000000
-SN=18969/20034507
+The 2.4GHz SSID Xiaomi_E370_1C8F<br>
+The 5GHz SSID Xiaomi_E370_1C8F_5G<br>
+admin & wifi password is 00000000<br>
+SN=18969/20034507<br>
 CountryCode=CN
+
 # From Dmesg Get Information:
 ```dmesg
 [    1.650000] flash manufacture id: 20, device id 70 18
