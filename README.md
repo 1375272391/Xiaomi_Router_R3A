@@ -1,5 +1,4 @@
-# Xiaomi_Route_R3A
-# MTD Full Backup
+# Xiaomi_Route_R3A_MTD-Backup
 
 Today(20260221), This Route has been broken<br>
 So,I upload these Backup Files
@@ -40,7 +39,7 @@ CountryCode=CN
 [    1.790000] 0x000000e40000-0x000001000000 : "common"
 ```
 
-# backup command history
+# Backup Command History
 ```ash
 dd if=/dev/mtd0 of=/tmp/backup/ALL
 dd if=/dev/mtd1 of=/tmp/backup/Bootloader
@@ -55,7 +54,7 @@ dd if=/dev/mtd9 of=/tmp/backup/rootfs
 dd if=/dev/mtd10 of=/tmp/backup/OS2
 dd if=/dev/mtd11 of=/tmp/backup/common
 ```
-# other
+# Other
 config file has more information
 
 The xz format can be decompressed using 7z.
