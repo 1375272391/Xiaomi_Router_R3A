@@ -1,6 +1,6 @@
-# Xiaomi_Route_R3A_MTD-Backup
+# Xiaomi_Router_R3A_MTD-Backup
 
-Today(20260221), This Route has been broken<br>
+Today(20260221), This Router has been broken<br>
 So,I upload these Backup Files
 
 # Info
